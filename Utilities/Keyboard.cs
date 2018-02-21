@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Runtime.InteropServices;
+
+/*
+ * From http://www.pinvoke.net/default.aspx/user32.getkeyboardstate
+ */
 
 namespace Utilities
 {
